@@ -2,7 +2,6 @@
   <div id="app">
     <Navbar />
     <router-view/>
-    <AddSmoothie/>
   </div>
 </template>
 
